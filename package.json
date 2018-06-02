@@ -2,10 +2,13 @@
   "name": "eight-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A colorful pastel dark them for Atom.",
+  "description": "A colorful pastel dark syntax theme for Atom.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "pastel",
+    "colorful"
   ],
   "repository": "https://github.com/kaikalii/eight-syntax",
   "license": "MIT",
