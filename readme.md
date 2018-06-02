@@ -6,8 +6,8 @@ This is a dark syntax theme with pastel colors. All colors used for syntax highl
 
 C
 
-![alt text](https://github.com/kaikalii/eight-syntax/blob/master/c_example.png "C example")
+![<https://github.com/kaikalii/eight-syntax/blob/master/c_example.png>](https://github.com/kaikalii/eight-syntax/blob/master/c_example.png "C example")
 
 Rust
 
-![alt text](https://github.com/kaikalii/eight-syntax/blob/master/rust_example.png "Rust example")
+![<https://github.com/kaikalii/eight-syntax/blob/master/rust_example.png>](https://github.com/kaikalii/eight-syntax/blob/master/rust_example.png "Rust example")
