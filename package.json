@@ -1,13 +1,13 @@
 {
   "name": "eight-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1",
+  "description": "A colorful pastel dark them for Atom.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/eight-syntax",
+  "repository": "https://github.com/kaikalii/eight-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
